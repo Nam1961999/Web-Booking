@@ -1,0 +1,81 @@
+.searchItemContainer {
+    display: flex;
+    border: solid 1px #ccc;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-right: 16px;
+}
+
+.name_search {
+    color: #0077cc;
+}
+
+.type {
+    background-color: #008009;
+    padding-right: 8px;
+    padding-left: 8px;
+    border-radius: 10px;
+    max-width: fit-content;
+    color: white;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.description {
+    font-weight: bold;
+}
+
+.cancellation {
+    color: #008009;
+    font-weight: bold;
+}
+
+.text_bottom {
+    color: #008009;
+}
+
+.rate_container {
+    margin-top: 8px;
+    display: flex;
+}
+
+.rate_text {
+    font-weight: bold;
+}
+
+.rate {
+    background-color: #003580;
+    color: white;
+   
+    margin-left: auto;
+    padding: 6px 3px 6px 3px;
+    font-weight: bold;
+}
+
+.price {
+    right: 10px;
+    margin-top: 115px;
+    text-align: right;
+}
+
+.text_taxes {
+    right: 0px;
+    margin-top: -10px;
+    text-align: right;
+    color: #9b9797;
+    font-size: 13px;
+}
+
+.button_more {
+      margin-top: -5px;
+      margin-left: auto;
+      color: white;
+      border-radius: 7px;
+      border: white;
+      background-color: #0071c2;
+      height: 49px;
+      width: 154px;
+      font-weight: bold;
+}

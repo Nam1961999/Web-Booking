@@ -1,0 +1,39 @@
+.navbar {
+    background-color: #003580
+}
+
+.nav-link {
+    color: white;
+    margin-left: 2px ;
+    margin-right: 2px ;
+}
+
+.title-name {
+    color: white;
+    font-size: 20px;
+
+}
+
+.button-style {
+    border-radius: 20px;
+    display: flex;
+}
+
+.btn-primary {
+    margin-left: 810px;
+    background-color: white;
+    color: #004cb8;
+}
+
+.btn-secondary {
+    margin-left: 10px
+}
+
+.nav-link:hover,
+.nav-link.active {
+    border: solid 2px;
+    border-radius: 25px;
+    color: #fff;
+    margin-left: 0px ;
+    margin-right:  0px ;
+}

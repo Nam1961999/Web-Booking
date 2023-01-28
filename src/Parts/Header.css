@@ -1,0 +1,48 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+}
+.paragraph{
+    color: white;
+}
+#inputer{
+    margin-left: 1000px;
+    border: solid;
+    border-radius: 20px;
+}
+.btn{
+    color: white;
+    border-radius: 15px;
+    border-color: white;
+    background-color: #0d6efd;
+}
+
+.Header .btn:hover{
+    background-color: #4389f1;  
+    border-color: white;
+    color: white;
+} 
+
+#inputer{
+    width: 1000px;
+    margin-left: 200px;
+}
+.search-box{
+    display: flex;
+}
+.headerContent{
+    margin-top: 50px;
+    color: white;
+    margin-left: 50px;
+}
+.paragraph{
+    margin-left: 50px;
+}
+#signin{
+    margin-left: 70px;
+}
+.button-style{
+    display: flex;
+    justify-content: center;
+   
+}

@@ -1,0 +1,34 @@
+.search_pop_container {
+    background-color: #febb02;
+    margin-top: 50px;
+    max-width: 400px;
+    border-radius: 10px;
+    margin-left: 68px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px
+}
+
+.chil_popup {
+    display: flex;
+}
+
+.input_boder {
+    max-width: 200px;
+    justify-content: right;
+    margin-left: auto;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+#search-btn{
+    color: white;
+    background-color: #0071c2;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-top: 20px;
+}

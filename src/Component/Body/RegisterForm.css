@@ -1,0 +1,16 @@
+.submit{
+    background:#0d6efd ;
+    border-radius: 25px;
+    
+}
+:hover.submit{
+    background-color: white;
+}
+.RegisterForm{
+    background-color: #003580;
+    align-items: center;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

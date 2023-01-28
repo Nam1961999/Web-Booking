@@ -1,0 +1,15 @@
+.col_container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    padding-bottom: 50px;
+background-color: white;
+}
+.col-item{
+    margin-left: 100px;
+    list-style-type: none;
+    color: #46a4e6;
+}
+.navbar_footer{
+    background-color: white;
+}

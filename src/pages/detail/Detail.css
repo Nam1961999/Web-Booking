@@ -1,0 +1,71 @@
+.Detail {
+    display: flex;
+    justify-content: center;
+    margin-left: 2vw;
+}
+
+.header {
+    display: flex;
+}
+
+.button {
+    border-radius: 10px;
+    border-color: white;
+    background-color: white;
+    margin-left: 900px;
+    margin-top: 30px;
+    color: white;
+    height: 50px;
+    width: 200px;
+    background-color: #0d6efd;
+}
+
+.description1 {
+    color: #0d6efd;
+}
+
+.description2 {
+    color: #1d904a;
+}
+
+.hotel_detail {
+    display: flex;
+}
+
+.hotel_detail1 {
+    width: 47vw;
+
+}
+
+.hotel_detail2 {
+    background-color: #ebf3ff;
+    max-width: 30vw;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    justify-items: center;
+}
+
+.reserve-btn {
+    margin-left: 120px;
+    background-color: #0d6efd;
+    color: white;
+    border-radius: 10px;
+    height: 50px;
+    width: 250px;
+}
+
+.photo_detail {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+
+    column-gap: 2px;
+    row-gap: 2px;
+    max-width: fit-content;
+}
+
+.photo {
+    max-width: 400px;
+    text-align: center;
+}

@@ -1,0 +1,55 @@
+.rates {
+    background-color: #003580;
+    color: white;
+    margin-right: 10px;
+    padding: 3px;
+    border-radius: 3px;
+}
+
+.trainghiem {
+    display: flex;
+}
+
+.hotelType:hover {
+    border-radius: 10px;
+    background-color: #d2f0f6;
+}
+
+.title {
+    display: flex;
+   
+    justify-items: center;
+    align-items: center;
+}
+
+.hotel-item {
+    display: flex;
+    justify-items: center;
+}
+.hotelType {
+    display: inline-block;
+    padding-top: 15px;
+    margin-left: 25px;
+}
+
+.title {
+    margin-left: 20px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.hotels {
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    max-width: 1200px;
+    margin-left: 200px;
+}
+
+.hotel-Type {
+    display: flex;
+    justify-items: center;
+}
+.title_hotel{
+    margin-left: 218px;
+}
